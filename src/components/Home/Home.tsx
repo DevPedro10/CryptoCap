@@ -20,7 +20,7 @@ const Home = () => {
                 <div className="mx-auto text-center mt-64 relative">
                     <h1 className="text-4xl font-bold">Start and Build Your Crypto Portfolio Here</h1>
                     <h2 className="mt-10 leading-8 text-zinc-200">Only at CryptoCap, you can build a good portfolio and learn <br /> best practices about cryptocurrency.</h2>
-                    <Button className="mt-10 bg-customPrimaryColor text-white py-6 px-10">Get Started</Button>
+                    <Button className="mt-10 bg-customPrimaryColor text-white py-6 px-10 hover:bg-customPrimaryColor/70">Get Started</Button>
                 </div>
 
                 <div className="2xl:mt-10px xl:h-auto lg:mt-28 md:mt-14">

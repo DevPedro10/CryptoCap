@@ -44,24 +44,28 @@ const LearnAbout = () => {
             </div>
             <div className="flex justify-around shrink grow flex-wrap gap-10">
                 <InfoCard
+                    articleLink="https://www.nerdwallet.com/article/investing/get-a-crypto-wallet"
                     tag="TIPS & TRICKS"
                     title="How to setup crypto wallet in your account"
                     description="A crypto wallet is a place where you can securely keep your crypto.. "
                     image="https://i.ibb.co/j8PXvyz/image-4.png"
                 />
                 <InfoCard
+                    articleLink="https://www.hartfordfunds.com/practice-management/client-conversations/financial-planning/10-things-you-should-know-about-bitcoin.html"
                     tag="Crypto Basic"
                     title="The fact about bitcoin must you know"
                     description="Bitcoin is the world's first widely adopted cryptocurrency, it allows for secure.."
                     image="https://i.ibb.co/1QwhVwn/image-5.png"
                 />
                 <InfoCard
+                    articleLink="https://corporatefinanceinstitute.com/resources/cryptocurrency/best-time-to-buy-cryptocurrency/#:~:text=Prices%20are%20lower%20when%20the,and%20rise%20throughout%20the%20week."
                     tag="TIPS & TRICKS"
                     title="When is the best time to invest in crypto?"
                     description="When prices are fluctuating, how do you know when to buy?"
                     image="https://i.ibb.co/zR1bJvC/image-6.png"
                 />
                 <InfoCard
+                    articleLink="https://unbanked.com/defi-the-wild-west-of-crypto/#:~:text=Share,peer%2Dto%2Dpeer%20transactions."
                     tag="TIPS & TRICKS"
                     title="What Is DeFi? Inside the Wild West of Cryptocurrency.?"
                     description="Welcome to decentralized finance or DeFi, the new frontier of crypto that will.."

@@ -19,7 +19,9 @@ function App() {
             <h1 className="font-bold text-2xl">New In Cryptocurrency?</h1>
             <h2 className="w-7/12 mt-5 text-zinc-400">We'll tell you what cryptocurrencies are, how they work and why you should own one right now. So let's do it.</h2>
           </div>
-          <Button className="bg-customPrimaryColor h-14 lg:mt-0 mt-6">Learn & Explore Now</Button>
+          <a href="https://coinbase.com/en-br/learn/crypto-basics" target="_blank">
+            <Button className="hover:bg-customPrimaryColor/70 bg-customPrimaryColor h-14 lg:mt-0 mt-6">Learn & Explore Now</Button>
+          </a>
 
         </div>
       </section>
